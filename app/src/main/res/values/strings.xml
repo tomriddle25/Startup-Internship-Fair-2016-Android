@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Internship Fair 2k16</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tx1">"The recent and special creation of SRM Educational Group towards world class infrastructure and academic ambience that will shape and mould the future citizen of India. The SRM Educational Group as a community have over 20,000 students and 1500 staff spreading over five campus in India. The SRM Group has earned the best teaching quality rating and a strong research record and offer a wide range of undergraduate, postgraduate and doctoral programs in Engineering, Management, Medicine and Health Sciences, and Humanities. Today, our's is a broad-based, research intensive institution with a global reach."</string>
+   <string name="tx2">"The Training and Placement Cell, SRM University, Delhi-NCR,Sonepat is organizing an internship fair 2016. It is an attempt by the cell to create a nexus between students and various firms, to harness the creative and logical reasoning of the students and facilitate the sense of knowledge amongst the leaders for tomorrow. This event is also the first of its kind to be held in Haryana."</string>
+    <string name="tx1b">"SRM University, Haryana has been established under Haryana Private University Act, 2006 , as amended by Act No. 8 of 2013"</string>
+
+    <string name="tx3">"Companies accept the invite to the internship fair and confirm their attendance to the Fair."</string>
+
+    <string name="tx4">"Companies send the Job Description and other requested details to the Organising Team."</string>
+    <string name="tx5">"Event Schedule and other relevant details mailed to companies."</string>
+    <string name="tx6">"Companies need to share the list of candidates shortlisted/selected for the internship to the T and P cell."</string>
+    <string name="tx7">"Attendee(s) fill up the registration forms and start submitting their resume for verification and validation to the T and P cell."</string>
+
+    <string name="tx8">"Registered Attendee(s) provided with access to the Job Description and Company Details via the website and mobile app."</string>
+    <string name="tx9">"Attendees submit their preferences to the organizing committee."</string>
+    <string name="tx10">"Attendees issued event passes for the event through mail."</string>
+    <string name="dt1">15th November 2016</string>
+    <string name="dt2">17th November 2016</string>
+    <string name="dt3">18th November 2016</string>
+    <string name="dt4">19th November 2016</string>
+    <string name="dta">Last Date for Companies and Attendees Registration.</string>
+    <string name="dtb">Last Date for Validation and Verification of Resumes.</string>
+    <string name="dtc">Passes issued to all the Attendees one day before.</string>
+    <string name="dtd">Finally ,we welcome you at the Internship Fair in SRM University, Haryana!</string>
+</resources>
